@@ -3,3 +3,4 @@
 #This project mainly solves the problem of rich text rendering in WeChat applet slowly, converting traditional rich text string to json object, and improving applet rendering speed  test
   是的
 feature/NEW-4
+sdasd
